@@ -1,0 +1,6 @@
+__pycache__
+env
+*possibilities
+words.txt
+run.sh
+*-dataset*

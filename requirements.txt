@@ -1,0 +1,11 @@
+marisa-trie
+nltk
+numpy
+pandas
+pytz
+regex
+requests
+urllib3
+Click
+pytorch-transformers
+pattern
